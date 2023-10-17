@@ -1,12 +1,12 @@
 
+// Add your Firebase Config
 const firebaseConfig = {
-    apiKey: "AIzaSyDBtxrnSqTKrAexd7ABlHJGa3FcSkHGOzQ",
-    authDomain: "mimetic-oxide-393807.firebaseapp.com",
-    databaseURL: "https://mimetic-oxide-393807-default-rtdb.firebaseio.com",
-    projectId: "mimetic-oxide-393807",
-    storageBucket: "mimetic-oxide-393807.appspot.com",
-    messagingSenderId: "128214247435",
-    appId: "1:128214247435:web:d805d863c25f4f1b28bf0e"
+      apiKey: "YOUR_API_KEY",
+      authDomain: "YOUR_AUTH_DOMAIN",
+      projectId: "YOUR_PROJECT_ID",
+      storageBucket: "YOUR_STORAGE_BUCKET",
+      messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+      appId: "YOUR_APP_ID"
   };
   
   // Initialize Firebase
